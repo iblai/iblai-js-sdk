@@ -1,6 +1,4 @@
-# Documentation
-
-# IBL AI JavaScript SDK
+# iblai-js-sdk
 
 The ibl.ai JavaScript SDK is a powerful toolkit designed to seamlessly integrate with the IBL (Innovation Business Learning) ecosystem. This SDK enables developers to build sophisticated, AI-powered e-learning platforms by providing easy access to IBL's comprehensive suite of APIs.
 
